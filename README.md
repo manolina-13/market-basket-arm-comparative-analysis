@@ -2,8 +2,6 @@
 
 This repository presents a technical comparison of three association rule mining (ARM) algorithms—Apriori, ECLAT, and FP-Growth—using a real transactional groceries dataset.
 
-## Recommended Repository Name
-`market-basket-arm-comparative-analysis`
 
 ## Repository Description
 A comparative market basket analysis project that applies Apriori, ECLAT, and FP-Growth on grocery transactions to extract frequent itemsets, generate association rules, and benchmark algorithmic performance in terms of execution time and memory usage.
@@ -108,5 +106,4 @@ The notebook includes:
 
 ## Author
 **Manolina Das**  
-Roll No: 90/BCS/220002  
-Semester: 6th Sem (B.Tech)
+
